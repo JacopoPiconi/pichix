@@ -1,0 +1,7 @@
+git status
+git add nomefile
+git commit -m "commento"
+git push origin nomebranch
+git pull
+git checkout nomebranch
+git merge nome altro codice 
